@@ -1,7 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 , tvperu
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+
 #EXTINF:-1 , america tv
 https://ul.cdn946.net:8443/hls/hfs25pgcjpj.m3u8?s=YoW7jjb3a3YQn4xZ4Z-JGQ&e=1603276076
+
+#EXTINF:-1 , panamericana
+https://cdnhd.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1 , cine canal
 https://ul.cdn946.net:8443/hls/ido2exlbw2h.m3u8?s=RES5P1DRR5eXrtvJYIMwug&e=1603276607
@@ -102,3 +108,5 @@ https://ul.cdn946.net:8443/hls/p3ii4md9.m3u8?s=0uFGo59LWMHsvJ0QHzDOCg&e=16032794
 
 #EXTINF:-1 , ESTUDIO UNIVERSAL
 https://ul.cdn946.net:8443/hls/1gf4ro48rhyahu.m3u8?s=TRZ7sgvay37sMIvV5MW3oA&e=1603279490
+
+#EXTINF:-1 , 
